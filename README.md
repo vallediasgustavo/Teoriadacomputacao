@@ -1,1 +1,1 @@
-# Teoriadacomputacao
+# Simulador de Automatos Finitos

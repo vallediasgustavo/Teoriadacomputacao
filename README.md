@@ -14,7 +14,7 @@ Entre as classes de autômatos foram feito códigos dos seguinte autômatos fini
 
 -Ainda não funcional
 
-**Autômato Finito Não Determinístico com Movimento Vazio(AFNDMV).**
+**Autômato Finito Não Determinístico com Movimento Vazio(MV).**
 
 -Ainda não funcional
 
